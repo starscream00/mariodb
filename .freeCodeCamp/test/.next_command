@@ -57,3 +57,16 @@ cat /proc/self/environ
 echo -n 06dcd859-cbad-4f4a-aa94-248c7f1398d0
 ls --color=auto -a
 echo hello PostgreSQL
+git remote add origin git@github.com:starscream00/mariodb.git
+git remote set-url origin git@github.com:starscream00/mariodb.git
+git branch -M main
+git push -u origin main
+git push -u origin main
+git remote set-url origin git@github.com:starscream00/mariodb.git
+git push -u origin main
+git remote set-url origin git@github.com:starscream00/mariodb.git
+git push -u origin main
+git remote set-url origin https://github.com/starscream00/mariodb.git
+git branch add -M main
+git branch -M main
+git push -u origin main
