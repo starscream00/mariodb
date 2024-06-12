@@ -70,3 +70,4 @@ git remote set-url origin https://github.com/starscream00/mariodb.git
 git branch add -M main
 git branch -M main
 git push -u origin main
+psql --username=freecodecamp --dbname=postgres
